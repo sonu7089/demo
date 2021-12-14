@@ -15,9 +15,8 @@ const BlogIndex = ({ data, location }) => {
         <Seo title="All posts" />
         <Bio />
         <p>
-          No blog posts found. Add markdown posts to "content/blog" (or the
-          directory you specified for the "gatsby-source-filesystem" plugin in
-          gatsby-config.js).
+          Trying to Figure out if we can use static HTML or Java based web Apps with Gatsby.
+          Easy and Convinient to use.
         </p>
       </Layout>
     )
